@@ -11,7 +11,7 @@ public class ScannerApp {
      * @param args 命令行参数
      */
     public static void main(String[] args) {
-
+        System.out.println("Hello World!");
     }
 
 }
